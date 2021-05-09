@@ -9,6 +9,7 @@ This project is to read <b>questions</b> and <b>highlighted answer<b> from PDF C
 2. pip install regex
 3. pip install docx
 4. pip install pyperclip
+5. pip install pymupdf
 
 <h3>Steps to follow: </h3>
 1. Change your directory path to your desire path that you want to save in the Line 6
