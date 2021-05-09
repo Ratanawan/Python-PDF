@@ -29,3 +29,5 @@ This project is to read <b>questions</b> and <b>highlighted answer<b> from PDF C
 ![Doc](https://user-images.githubusercontent.com/34526877/117577026-4d56e480-b112-11eb-8ae8-cc425d06117b.PNG)
 
 For reading the highlighted text part, I got the code from https://stackoverflow.com/questions/9099497/how-to-extract-highlighted-parts-from-pdf-files
+
+Sample questions I got from: https://www.onlineinterviewquestions.com/software-engineering-mcq/
